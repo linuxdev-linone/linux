@@ -616,6 +616,11 @@ properties:
           - const: rockchip,rk3229-evb
           - const: rockchip,rk3229
 
+      - description: Rockchip RK3229 G1 Thinclient PC
+        items:
+          - const: rockchip,rk3229-g1-thinclient-pc
+          - const: rockchip,rk3229
+
       - description: Rockchip RK3288 Evaluation board
         items:
           - enum:
